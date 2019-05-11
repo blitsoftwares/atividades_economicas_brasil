@@ -1,4 +1,4 @@
-﻿code;description
+code;description
 0111-3/01;Cultivo de arroz
 0111-3/02;Cultivo de milho
 0111-3/03;Cultivo de trigo
@@ -272,8 +272,7 @@
 1531-9/02;Acabamento de calçados de couro sob contrato
 1532-7/00;Fabricação de tênis de qualquer material
 1533-5/00;Fabricação de calçados de material sintético
-1539-4/00;"Fabricação de calçados de materiais não especificado
-anteriormente"
+1539-4/00;Fabricação de calçados de materiais não especificados anteriormente
 1540-8/00;Fabricação de partes para calçados, de qualquer material
 1610-2/03;Serrarias com desdobramento de madeira em bruto
 1610-2/04;Serrarias sem desdobramento de madeira em bruto - Resseragem
@@ -353,8 +352,7 @@ anteriormente"
 2123-8/00;Fabricação de preparações farmacêuticas
 2211-1/00;Fabricação de pneumáticos e de câmaras-de-ar
 2212-9/00;Reforma de pneumáticos usados
-2219-6/00;"Fabricação de artefatos de borracha não especificados
-anteriormente"
+2219-6/00;Fabricação de artefatos de borracha não especificados anteriormente
 2221-8/00;Fabricação de laminados planos e tubulares de material plástico
 2222-6/00;Fabricação de embalagens de material plástico
 2223-4/00;Fabricação de tubos e acessórios de material plástico para uso na construção
@@ -593,7 +591,7 @@ anteriormente"
 3512-3/00;Transmissão de energia elétrica
 3513-1/00;Comércio atacadista de energia elétrica
 3514-0/00;Distribuição de energia elétrica
-3520-4/01;"Produção de gás; processamento de gás natural"
+3520-4/01;Produção de gás; processamento de gás natural
 3520-4/02;Distribuição de combustíveis gasosos por redes urbanas
 3530-1/00;Produção e distribuição de vapor, água quente e ar condicionado
 3600-6/01;Captação, tratamento e distribuição de água
@@ -616,7 +614,7 @@ anteriormente"
 4211-1/02;Pintura para sinalização em pistas rodoviárias e aeroportos
 4212-0/00;Construção de obras de arte especiais
 4213-8/00;Obras de urbanização - ruas, praças e calçadas
-4221-9/01;"Construção de barragens e represas para geração de energia elétrica"
+4221-9/01;Construção de barragens e represas para geração de energia elétrica
 4221-9/02;Construção de estações e redes de distribuição de energia elétrica
 4221-9/03;Manutenção de redes de distribuição de energia elétrica
 4221-9/04;Construção de estações e redes de telecomunicações
@@ -759,7 +757,7 @@ anteriormente"
 4649-4/02;Comércio atacadista de aparelhos eletrônicos de uso pessoal e doméstico
 4649-4/03;Comércio atacadista de bicicletas, triciclos e outros veículos recreativos
 4649-4/04;Comércio atacadista de móveis e artigos de colchoaria
-4649-4/05;"Comércio atacadista de artigos de tapeçaria; persianas e cortinas"
+4649-4/05;Comércio atacadista de artigos de tapeçaria; persianas e cortinas
 4649-4/06;Comércio atacadista de lustres, luminárias e abajures
 4649-4/07;Comércio atacadista de filmes, CDs, DVDs, fitas e discos
 4649-4/08;Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar
@@ -769,13 +767,13 @@ anteriormente"
 4651-6/01;Comércio atacadista de equipamentos de informática
 4651-6/02;Comércio atacadista de suprimentos para informática
 4652-4/00;Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação
-4661-3/00;"Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças"
-4662-1/00;"Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção; partes e peças"
-4663-0/00;"Comércio atacadista de máquinas e equipamentos para uso industrial; partes e peças"
-4664-8/00;"Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-hospitalar; partes e peças"
-4665-6/00;"Comércio atacadista de máquinas e equipamentos para uso comercial; partes e peças"
-4669-9/01;"Comércio atacadista de bombas e compressores; partes e peças"
-4669-9/99;"Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente; partes e peças"
+4661-3/00;Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças
+4662-1/00;Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção; partes e peças
+4663-0/00;Comércio atacadista de máquinas e equipamentos para uso industrial; partes e peças
+4664-8/00;Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-hospitalar; partes e peças
+4665-6/00;Comércio atacadista de máquinas e equipamentos para uso comercial; partes e peças
+4669-9/01;Comércio atacadista de bombas e compressores; partes e peças
+4669-9/99;Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente; partes e peças
 4671-1/00;Comércio atacadista de madeira e produtos derivados
 4672-9/00;Comércio atacadista de ferragens e ferramentas
 4673-7/00;Comércio atacadista de material elétrico
@@ -855,9 +853,9 @@ anteriormente"
 4762-8/00;Comércio varejista de discos, CDs, DVDs e fitas
 4763-6/01;Comércio varejista de brinquedos e artigos recreativos
 4763-6/02;Comércio varejista de artigos esportivos
-4763-6/03;"Comércio varejista de bicicletas e triciclos; peças e acessórios"
+4763-6/03;Comércio varejista de bicicletas e triciclos; peças e acessórios
 4763-6/04;Comércio varejista de artigos de caça, pesca e camping
-4763-6/05;"Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios"
+4763-6/05;Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios
 4771-7/01;Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas
 4771-7/02;Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas
 4771-7/03;Comércio varejista de produtos farmacêuticos homeopáticos
@@ -1128,15 +1126,14 @@ anteriormente"
 7490-1/99;Outras atividades profissionais, científicas e técnicas não especificadas anteriormente
 7500-1/00;Atividades veterinárias
 7711-0/00;Locação de automóveis sem condutor
-7719-5/01;"Locação de embarcações sem tripulação, exceto para fin
-recreativos"
+7719-5/01;Locação de embarcações sem tripulação, exceto para fins recreativos
 7719-5/02;Locação de aeronaves sem tripulação
 7719-5/99;Locação de outros meios de transporte não especificados anteriormente, sem condutor
 7721-7/00;Aluguel de equipamentos recreativos e esportivos
 7722-5/00;Aluguel de fitas de vídeo, DVDs e similares
 7723-3/00;Aluguel de objetos do vestuário, jóias e acessórios
 7729-2/01;Aluguel de aparelhos de jogos eletrônicos
-7729-2/02;"Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais"
+7729-2/02;Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais
 7729-2/03;Aluguel de material médico
 7729-2/99;Aluguel de outros objetos pessoais e domésticos não especificados anteriormente
 7731-4/00;Aluguel de máquinas e equipamentos agrícolas sem operador
@@ -1274,8 +1271,7 @@ recreativos"
 9001-9/05;Produção de espetáculos de rodeios, vaquejadas e similares
 9001-9/06;Atividades de sonorização e de iluminação
 9001-9/99;Artes cênicas, espetáculos e atividades complementares não especificados anteriormente
-9002-7/01;"Atividades de artistas plásticos, jornalistas independentes
-escritores"
+9002-7/01;Atividades de artistas plásticos, jornalistas independentes escritores
 9002-7/02;Restauração de obras de arte
 9003-5/00;Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas
 9101-5/00;Atividades de bibliotecas e arquivos
